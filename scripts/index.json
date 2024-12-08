@@ -105,7 +105,7 @@
     {
         "name": "Atlantis",
         "pros": ["Has a decompiler", "100% sUNC", "Level 8"],
-        "neutral": ["Sometimes crashes"],
+        "neutral": ["Sometimes crashes", "Dodgy owners"],
         "cons": [],
         "link": "https://loot-link.com/s?a38157dc",
         "buttonText": "FREE",
